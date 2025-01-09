@@ -1,3 +1,0 @@
-C:/Users/sissi/CLionProjects/assignment4/cmake-build-debug/CMakeFiles/assignment6.dir
-C:/Users/sissi/CLionProjects/assignment4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sissi/CLionProjects/assignment4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
